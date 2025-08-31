@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/* Reset and global styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    margin: 5px 0 22px 0;
+    padding: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 24px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
